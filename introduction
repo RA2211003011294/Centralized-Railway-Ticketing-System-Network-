@@ -1,0 +1,4 @@
+The centralized railway ticketing network is designed using a three-layer hierarchical model, 
+consisting of the Core Layer, Distribution Layer, and Access Layer. This structure allows 
+for efficient data management, secure access, and seamless scalability across the various 
+stations and service points within the network.
